@@ -9,7 +9,7 @@ main_content: >
   # Hi, Welcome!
 
 
-  **I'm Leona Farquhar** a game developer based in Scotland. I'm currently a 4th year student at Abertay University, where I'm studying Computer Game Application Development. Here, you'll find all my work.
+  I'm **Leona Farquhar** a game developer based in Scotland. I'm currently a 4th year student at Abertay University, where I'm studying Computer Game Application Development. Here, you'll find all my work.
 footer: true
 permalink: /
 ---
