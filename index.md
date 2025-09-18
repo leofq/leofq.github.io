@@ -6,18 +6,10 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Hi, Welcome!
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  **I'm Leona Farquhar** a game developer based in Scotland. I'm currently a 4th year student at Abertay University, where I'm studying Computer Game Application Development. Here, you'll find all my work.
 footer: true
 permalink: /
 ---
